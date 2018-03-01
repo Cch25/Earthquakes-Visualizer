@@ -1,0 +1,36 @@
+D:\Programare\ProgramareC#\Projects\T95.EarthquakeViz2D\T95.EarthquakeViz2D\bin\Debug\T95.EarthquakeViz2D.exe.config
+D:\Programare\ProgramareC#\Projects\T95.EarthquakeViz2D\T95.EarthquakeViz2D\bin\Debug\T95.EarthquakeViz2D.exe
+D:\Programare\ProgramareC#\Projects\T95.EarthquakeViz2D\T95.EarthquakeViz2D\bin\Debug\T95.EarthquakeViz2D.pdb
+D:\Programare\ProgramareC#\Projects\T95.EarthquakeViz2D\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.Form1.resources
+D:\Programare\ProgramareC#\Projects\T95.EarthquakeViz2D\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.Properties.Resources.resources
+D:\Programare\ProgramareC#\Projects\T95.EarthquakeViz2D\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.csproj.GenerateResource.Cache
+D:\Programare\ProgramareC#\Projects\T95.EarthquakeViz2D\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.exe
+D:\Programare\ProgramareC#\Projects\T95.EarthquakeViz2D\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.pdb
+D:\Programare\ProgramareC#\Projects\T95.EarthquakeViz2D - wrong-coord\T95.EarthquakeViz2D\bin\Debug\T95.EarthquakeViz2D.exe.config
+D:\Programare\ProgramareC#\Projects\T95.EarthquakeViz2D - wrong-coord\T95.EarthquakeViz2D\bin\Debug\T95.EarthquakeViz2D.exe
+D:\Programare\ProgramareC#\Projects\T95.EarthquakeViz2D - wrong-coord\T95.EarthquakeViz2D\bin\Debug\T95.EarthquakeViz2D.pdb
+D:\Programare\ProgramareC#\Projects\T95.EarthquakeViz2D - wrong-coord\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.csprojResolveAssemblyReference.cache
+D:\Programare\ProgramareC#\Projects\T95.EarthquakeViz2D - wrong-coord\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.Form1.resources
+D:\Programare\ProgramareC#\Projects\T95.EarthquakeViz2D - wrong-coord\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.Properties.Resources.resources
+D:\Programare\ProgramareC#\Projects\T95.EarthquakeViz2D - wrong-coord\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.csproj.GenerateResource.Cache
+D:\Programare\ProgramareC#\Projects\T95.EarthquakeViz2D - wrong-coord\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.exe
+D:\Programare\ProgramareC#\Projects\T95.EarthquakeViz2D - wrong-coord\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.pdb
+D:\Programare\ProgramareC#\Projects\T91.EarthquakeViz2D - wrong-coord\T95.EarthquakeViz2D\bin\Debug\T95.EarthquakeViz2D.exe.config
+D:\Programare\ProgramareC#\Projects\T91.EarthquakeViz2D - wrong-coord\T95.EarthquakeViz2D\bin\Debug\T95.EarthquakeViz2D.exe
+D:\Programare\ProgramareC#\Projects\T91.EarthquakeViz2D - wrong-coord\T95.EarthquakeViz2D\bin\Debug\T95.EarthquakeViz2D.pdb
+D:\Programare\ProgramareC#\Projects\T91.EarthquakeViz2D - wrong-coord\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.csprojResolveAssemblyReference.cache
+D:\Programare\ProgramareC#\Projects\T91.EarthquakeViz2D - wrong-coord\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.Form1.resources
+D:\Programare\ProgramareC#\Projects\T91.EarthquakeViz2D - wrong-coord\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.Properties.Resources.resources
+D:\Programare\ProgramareC#\Projects\T91.EarthquakeViz2D - wrong-coord\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.csproj.GenerateResource.Cache
+D:\Programare\ProgramareC#\Projects\T91.EarthquakeViz2D - wrong-coord\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.exe
+D:\Programare\ProgramareC#\Projects\T91.EarthquakeViz2D - wrong-coord\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.pdb
+D:\Programare\ProgramareC#\Projects\T91.EarthquakeViz2D\T95.EarthquakeViz2D\bin\Debug\T95.EarthquakeViz2D.exe.config
+D:\Programare\ProgramareC#\Projects\T91.EarthquakeViz2D\T95.EarthquakeViz2D\bin\Debug\T95.EarthquakeViz2D.exe
+D:\Programare\ProgramareC#\Projects\T91.EarthquakeViz2D\T95.EarthquakeViz2D\bin\Debug\T95.EarthquakeViz2D.pdb
+D:\Programare\ProgramareC#\Projects\T91.EarthquakeViz2D\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.csprojResolveAssemblyReference.cache
+D:\Programare\ProgramareC#\Projects\T91.EarthquakeViz2D\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.Form1.resources
+D:\Programare\ProgramareC#\Projects\T91.EarthquakeViz2D\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.Properties.Resources.resources
+D:\Programare\ProgramareC#\Projects\T91.EarthquakeViz2D\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.csproj.GenerateResource.Cache
+D:\Programare\ProgramareC#\Projects\T91.EarthquakeViz2D\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.csproj.CoreCompileInputs.cache
+D:\Programare\ProgramareC#\Projects\T91.EarthquakeViz2D\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.exe
+D:\Programare\ProgramareC#\Projects\T91.EarthquakeViz2D\T95.EarthquakeViz2D\obj\Debug\T95.EarthquakeViz2D.pdb
