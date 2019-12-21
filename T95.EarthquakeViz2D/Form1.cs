@@ -32,7 +32,7 @@ namespace T95.EarthquakeViz2D
             _firstTimeOpen = true; //make sure you're not showing all the earthquakes from the last hour
             pictureBox1.LoadAsync("https://api.mapbox.com/styles/v1/mapbox/dark-v9/static/" +
             Clat + "," + Clon + "," + Zoom + "/" + Ww + "x" + Hh +
-            "?access_token=pk.eyJ1IjoiY29kaW5ndHJhaW4iLCJhIjoiY2l6MGl4bXhsMDRpNzJxcDh0a2NhNDExbCJ9.awIfnl6ngyHoB3Xztkzarw");
+            "?access_token=pk.eyJ1IjoiZHJlYW13b3JsZDI1IiwiYSI6ImNqNGp0a3FwMzBvZGIzMm83M3BtM3B5MWUifQ.J-hyod7cC4aafNzi5mIymQ");
             comboBox1.SelectedIndex = 0; //load default "last day" earthquakes to visualize
 
             InitializeNotificationArea();
